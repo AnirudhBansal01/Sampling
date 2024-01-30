@@ -1,0 +1,6 @@
+,Simple Random Sampling,Stratified Sampling,Random Sampling (train_test_split),Random Sampling (ShuffleSplit),Simple Random Sampling (No Replacement)
+RandomForestClassifier(random_state=42),0.5000,0.5000,0.0746,0.5000,0.5000
+LogisticRegression(random_state=42),0.5000,0.5000,0.0382,0.5000,0.5000
+SVC(random_state=42),0.5000,0.5000,0.0352,0.5000,0.5000
+KNeighborsClassifier(),0.5000,0.5000,0.0121,0.5000,0.5000
+DecisionTreeClassifier(random_state=42),0.5000,0.5000,0.0121,0.5000,0.5000
