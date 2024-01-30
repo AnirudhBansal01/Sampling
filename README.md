@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection - Sampling and Model Evaluation
+# Credit Card - Sampling and Model Evaluation
 ## Introduction
 This project aims to perform credit card fraud detection using different sampling techniques and machine learning models. 
 
