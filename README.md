@@ -18,19 +18,19 @@ Use the sample size detection formula to create five different samples.
 
 ## Sampling Techniques:
 Apply five different sampling techniques on the balanced dataset:
-Simple Random Sampling
-Stratified Sampling
-Random Sampling (train_test_split)
-Random Sampling (ShuffleSplit)
-Simple Random Sampling (No Replacement)
+- Simple Random Sampling
+- Stratified Sampling
+- Random Sampling (train_test_split)
+- Random Sampling (ShuffleSplit)
+- Simple Random Sampling (No Replacement)
 
 ## Machine Learning Models:
 Train five different machine learning models (M1 to M5) on each sample.
-Model M1: RandomForestClassifier
-Model M2: LogisticRegression
-Model M3: Support Vector Machine (SVM)
-Model M4: K-Nearest Neighbors (KNN)
-Model M5: Decision Tree Classifier
+- Model M1: RandomForestClassifier
+- Model M2: LogisticRegression
+- Model M3: Support Vector Machine (SVM)
+- Model M4: K-Nearest Neighbors (KNN)
+- Model M5: Decision Tree Classifier
 
 ## Model Evaluation:
 Evaluate the performance of each model on different samples.
